@@ -40,6 +40,9 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [matlab-bench](https://github.com/apjanke/matlab-bench) – Benchmarks performance of basic Matlab language operations
 * [dispstr](https://github.com/apjanke/dispstr) ![Octave Compatible][octave] – An API for polymorphic customizable object display
 
+![Octave Compatible][octave] = Octave-compatible
+![Not Octave Compatible][no-octave] = Not Octave-compatible
+
 ## Finding FLOSS Matlab Projects
 
 [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) is the classic location for sharing Matlab code.
