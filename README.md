@@ -33,9 +33,10 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 ### My own FLOSS Matlab Projects
 
-* [Janklab](https://github.com/apjanke/janklab) – My general-purpose tools & tricks Matlab library
+
+* [Janklab](https://github.com/apjanke/janklab) ![Not Octave Compatible][no-octave] – My general-purpose tools & tricks Matlab library
 * [SLF4M](https://github.com/apjanke/SLF4M) – A simple logging framework for Matlab, built on top of SLF4J and Log4J
-* [MCodeNavigator](https://github.com/apjanke/MCodeNavigator) – A GUI for browsing Matlab source code trees
+* [MCodeNavigator](https://github.com/apjanke/MCodeNavigator) ![Not Octave Compatible][no-octave] – A GUI for browsing Matlab source code trees
 * [matlab-bench](https://github.com/apjanke/matlab-bench) – Benchmarks performance of basic Matlab language operations
 * [dispstr](https://github.com/apjanke/dispstr) – An API for polymorphic customizable object display
 
@@ -59,3 +60,6 @@ Yair Altman posts a bunch of stuff on [Undocumented Matlab](https://undocumented
 ## Author
 
 This list was put together by [Andrew Janke](https://apjanke.net).
+
+[octave]: images/octave-64px.png "Octave Compatible"
+[no-octave]: images/no-octave-64px.png "Not Octave Compatible"
