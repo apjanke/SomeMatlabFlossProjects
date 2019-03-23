@@ -53,7 +53,7 @@ Most of them appear to just be student homework, though, so they don’t all rep
 
 I prefer projects that are hosted on GitHub to those on File Exchange, because there’s no good way to submit PRs or bug reports on File Exchange.
 
-GitHub user `kaxap` maintinas a [list of popular Matlab repos on GitHub](https://github.com/kaxap/arl/blob/master/README-MATLAB.md).
+GitHub user `kaxap` maintains a [list of popular Matlab repos on GitHub](https://github.com/kaxap/arl/blob/master/README-MATLAB.md).
 
 Yair Altman posts a bunch of stuff on [Undocumented Matlab](https://undocumentedmatlab.com/) and [his File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/?term=authorid%3A27420).
 
