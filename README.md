@@ -61,5 +61,5 @@ Yair Altman posts a bunch of stuff on [Undocumented Matlab](https://undocumented
 
 This list was put together by [Andrew Janke](https://apjanke.net).
 
-[octave]: images/octave-32px.png "Octave Compatible"
-[no-octave]: images/no-octave-32px.png "Not Octave Compatible"
+[octave]: images/octave-16px.png "Octave Compatible"
+[no-octave]: images/no-octave-16px.png "Not Octave Compatible"
