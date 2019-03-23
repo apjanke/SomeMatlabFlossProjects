@@ -24,6 +24,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig) - Exports figures to various formats
 * [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 * [Matlab Schemer](https://github.com/scottclowe/matlab-schemer) – Color themes for the Matlab desktop
+* [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 
 ### My own FLOSS Matlab Projects
 
@@ -43,6 +44,8 @@ The [File Exchange Pick of the Week](https://blogs.mathworks.com/pick/) highligh
 There’s a [Matlab tag on GitHub](https://github.com/topics/matlab).
 It lists over 4,000 repos as of March 2019.
 Most of them appear to just be student homework, though, so they don’t all represent significant projects.
+
+I prefer projects that are hosted on GitHub to those on File Exchange, because there’s no good way to submit PRs or bug reports on File Exchange.
 
 GitHub user `kaxap` maintinas a [list of popular Matlab repos on GitHub](https://github.com/kaxap/arl/blob/master/README-MATLAB.md).
 
