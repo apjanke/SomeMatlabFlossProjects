@@ -38,7 +38,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [SLF4M](https://github.com/apjanke/SLF4M) – A simple logging framework for Matlab, built on top of SLF4J and Log4J
 * [MCodeNavigator](https://github.com/apjanke/MCodeNavigator) ![Not Octave Compatible][no-octave] – A GUI for browsing Matlab source code trees
 * [matlab-bench](https://github.com/apjanke/matlab-bench) – Benchmarks performance of basic Matlab language operations
-* [dispstr](https://github.com/apjanke/dispstr) – An API for polymorphic customizable object display
+* [dispstr](https://github.com/apjanke/dispstr) ![Octave Compatible][octave]– An API for polymorphic customizable object display
 
 ## Finding FLOSS Matlab Projects
 
