@@ -17,6 +17,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
+* [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch) – MathWorks’ own open source tools for deploying Matlab systems on cloud providers like AWS and Azure
 * [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [matImage](https://github.com/mattools/matImage) – Image processing library
   * Note: there’s [no LICENSE](https://github.com/mattools/matImage/issues/3) in this one; I’m just assuming it’s open source
