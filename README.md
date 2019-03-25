@@ -17,6 +17,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
 * [DeepLearnToolbox] – Deep Learning toolbox (deprecated)
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
+* [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [matImage](https://github.com/mattools/matImage) – Image processing library
   * Note: there’s [no LICENSE](https://github.com/mattools/matImage/issues/3) in this one; I’m just assuming it’s open source
   * The [`mattools` GitHub group](https://github.com/mattools) has several other libraries
@@ -53,6 +54,8 @@ The [File Exchange Pick of the Week](https://blogs.mathworks.com/pick/) highligh
 There’s a [Matlab tag on GitHub](https://github.com/topics/matlab).
 It lists over 4,000 repos as of March 2019.
 Most of them appear to just be student homework, though, so they don’t all represent significant projects.
+
+[MathWorks has a GitHub page](https://github.com/mathworks).
 
 I prefer projects that are hosted on GitHub to those on File Exchange, because there’s no good way to submit PRs or bug reports on File Exchange.
 
