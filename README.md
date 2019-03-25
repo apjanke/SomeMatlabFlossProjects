@@ -44,6 +44,11 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 ![Octave Compatible][octave] = Octave-compatible
 ![Not Octave Compatible][no-octave] = Not Octave-compatible
 
+## Other Lists of Matlab Projects
+
+* [mikecroucher/awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
+* [uhub/awesome-matlab](https://github.com/uhub/awesome-matlab)
+
 ## Finding FLOSS Matlab Projects
 
 [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) is the classic location for sharing Matlab code.
