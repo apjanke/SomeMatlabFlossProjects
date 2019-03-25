@@ -15,7 +15,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) – Richer controls for arranging Matlab GUI widgets
 * [GRAMM](https://github.com/piermorel/gramm) – Advanced data visualization based on Grammar of Graphics
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
-* [DeepLearnToolbox] – Deep Learning toolbox (deprecated)
+* [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
 * [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [matImage](https://github.com/mattools/matImage) – Image processing library
