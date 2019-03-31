@@ -35,6 +35,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [MOxUnit](https://github.com/MOxUnit/MOxUnit) – a unit test framework
 * [GIBBON](https://www.gibboncode.org/) – The Geometry and Image-Based Bioengineering add-ON
 * [TopoToolbox](https://topotoolbox.wordpress.com/topotoolbox/) – Analysis of digital elevation models
+* [TAPAS](https://github.com/translationalneuromodeling/tapas) – Translational Algorithms for Psychiatry-Advancing Science – A neuroscience library
 
 ### My own FLOSS Matlab Projects
 
