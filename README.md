@@ -49,12 +49,21 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 ![Octave Compatible][octave] = Octave-compatible
 ![Not Octave Compatible][no-octave] = Not Octave-compatible
 
-## Other Lists of Matlab Projects
+## Resources
+
+### Matlab Help places
+
+* ["matlab" tag on Stack Overflow](https://stackoverflow.com/questions/tagged/matlab)
+* [Matlab Ansers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
+* [#matlab channel on freenode IRC](https://matlab-freenode.fandom.com/wiki/Matlab_on_Freenode_Wiki)
+* [Matlab Café Slack](https://matlabcafe.slack.com) – A public Slack for discussing Matlab programming
+
+### Other Lists of Matlab Projects
 
 * [mikecroucher/awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
 * [uhub/awesome-matlab](https://github.com/uhub/awesome-matlab)
 
-## Finding FLOSS Matlab Projects
+### Finding FLOSS Matlab Projects
 
 [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) is the classic location for sharing Matlab code.
 Everything on there is required to be FLOSS licensed.
