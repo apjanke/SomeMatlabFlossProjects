@@ -62,7 +62,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 ### Matlab Help places
 
 * ["matlab" tag on Stack Overflow](https://stackoverflow.com/questions/tagged/matlab)
-* [Matlab Ansers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
+* [Matlab Answers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
 * [#matlab channel on freenode IRC](https://matlab-freenode.fandom.com/wiki/Matlab_on_Freenode_Wiki)
 * [Matlab Café Slack](https://matlabcafe.slack.com) – A public Slack for discussing Matlab programming
 
