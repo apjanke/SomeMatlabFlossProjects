@@ -19,7 +19,6 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
 * [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch) – MathWorks’ own open source tools for deploying Matlab systems on cloud providers like AWS and Azure
 * [matImage](https://github.com/mattools/matImage) – Image processing library
-  * Note: there’s [no LICENSE](https://github.com/mattools/matImage/issues/3) in this one; I’m just assuming it’s open source
   * The [`mattools` GitHub group](https://github.com/mattools) has several other libraries
 * [Physical Units Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/38977-physical-units-toolbox)
 * [Treemap](https://www.mathworks.com/matlabcentral/fileexchange/17192-treemap) – Displays data using relative areas of nested rectangles
