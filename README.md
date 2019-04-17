@@ -10,9 +10,9 @@ I’m just noting their existence.
 Submissions to this list are welcome.
 Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) with them.
 
-## FLOSS Matlab Projects
+# FLOSS Matlab Projects
 
-### Programming and Utilities
+## Programming and Utilities
 
 * [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) – Richer controls for arranging Matlab GUI widgets
 * [GRAMM](https://github.com/piermorel/gramm) – Advanced data visualization based on Grammar of Graphics
@@ -31,7 +31,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
 
-### Domain Modeling and Analysis
+## Domain Modeling and Analysis
 
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
 * [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
@@ -44,7 +44,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 
-### My own FLOSS Matlab Projects
+## My own FLOSS Matlab Projects
 
 
 * [Janklab](https://github.com/apjanke/janklab) ![Not Octave Compatible][no-octave] – My general-purpose tools & tricks Matlab library
@@ -56,21 +56,21 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 ![Octave Compatible][octave] = Octave-compatible
 ![Not Octave Compatible][no-octave] = Not Octave-compatible
 
-## Resources
+# Resources
 
-### Matlab Help places
+## Matlab Help places
 
 * ["matlab" tag on Stack Overflow](https://stackoverflow.com/questions/tagged/matlab)
 * [Matlab Answers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
 * [#matlab channel on freenode IRC](https://matlab-freenode.fandom.com/wiki/Matlab_on_Freenode_Wiki)
 * [Matlab Café Slack](https://matlabcafe.slack.com) – A public Slack for discussing Matlab programming
 
-### Other Lists of Matlab Projects
+## Other Lists of Matlab Projects
 
 * [mikecroucher/awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
 * [uhub/awesome-matlab](https://github.com/uhub/awesome-matlab)
 
-### Finding FLOSS Matlab Projects
+## Finding FLOSS Matlab Projects
 
 [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) is the classic location for sharing Matlab code.
 Everything on there is required to be FLOSS licensed.
@@ -89,7 +89,7 @@ GitHub user `kaxap` maintains a [list of popular Matlab repos on GitHub](https:/
 
 Yair Altman posts a bunch of stuff on [Undocumented Matlab](https://undocumentedmatlab.com/) and [his File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/?term=authorid%3A27420).
 
-## Author
+# Author
 
 This list was put together by [Andrew Janke](https://apjanke.net).
 
