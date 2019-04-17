@@ -35,14 +35,14 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
 * [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
+* [MATPOWER](http://www.pserc.cornell.edu/matpower/) – Power grid simulation and optimization
 * [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-matlab) – Robotics-specific functionality
-* [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
-* [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [GIBBON](https://www.gibboncode.org/) – The Geometry and Image-Based Bioengineering add-ON
 * [TopoToolbox](https://topotoolbox.wordpress.com/topotoolbox/) – Analysis of digital elevation models
 * [TAPAS](https://github.com/translationalneuromodeling/tapas) – Translational Algorithms for Psychiatry-Advancing Science – A neuroscience library
-* [MATPOWER](http://www.pserc.cornell.edu/matpower/) – Power grid simulation and optimization
+* [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
+* [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 
 ### My own FLOSS Matlab Projects
 
