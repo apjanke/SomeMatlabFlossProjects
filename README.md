@@ -12,28 +12,34 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 ## FLOSS Matlab Projects
 
+### Programming and Utilities
+
 * [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) – Richer controls for arranging Matlab GUI widgets
 * [GRAMM](https://github.com/piermorel/gramm) – Advanced data visualization based on Grammar of Graphics
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
-* [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
-* [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
-* [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
 * [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch) – MathWorks’ own open source tools for deploying Matlab systems on cloud providers like AWS and Azure
-* [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [matImage](https://github.com/mattools/matImage) – Image processing library
   * Note: there’s [no LICENSE](https://github.com/mattools/matImage/issues/3) in this one; I’m just assuming it’s open source
   * The [`mattools` GitHub group](https://github.com/mattools) has several other libraries
-* [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-matlab) – Robotics-specific functionality
 * [Physical Units Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/38977-physical-units-toolbox)
 * [Treemap](https://www.mathworks.com/matlabcentral/fileexchange/17192-treemap) – Displays data using relative areas of nested rectangles
 * [findjobj](https://www.mathworks.com/matlabcentral/fileexchange/14317-findjobj-find-java-handles-of-matlab-graphic-objects) – find Java handles in Matlab graphic objects
 * [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig) - Exports figures to various formats
 * [tfigure](https://github.com/curtisma/MATLAB_tfigure) – A tabbed figure control
-* [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 * [Matlab Schemer](https://github.com/scottclowe/matlab-schemer) – Color themes for the Matlab desktop
-* [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [Process Manager](https://www.mathworks.com/matlabcentral/fileexchange/48164-process-manager) – Launch and manage external processes from Matlab
 * [MOxUnit](https://github.com/MOxUnit/MOxUnit) – a unit test framework
+
+* [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
+
+### Domain Modeling and Analysis
+
+* [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
+* [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
+* [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
+* [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-matlab) – Robotics-specific functionality
+* [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
+* [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [GIBBON](https://www.gibboncode.org/) – The Geometry and Image-Based Bioengineering add-ON
 * [TopoToolbox](https://topotoolbox.wordpress.com/topotoolbox/) – Analysis of digital elevation models
 * [TAPAS](https://github.com/translationalneuromodeling/tapas) – Translational Algorithms for Psychiatry-Advancing Science – A neuroscience library
