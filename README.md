@@ -29,7 +29,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Process Manager](https://www.mathworks.com/matlabcentral/fileexchange/48164-process-manager) – Launch and manage external processes from Matlab
 * [MOxUnit](https://github.com/MOxUnit/MOxUnit) – a unit test framework
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
-* [Transplant](https://github.com/bastibe/transplant) – An “easy way of calling Matlab from Python”
+* [Transplant](https://github.com/bastibe/transplant) – An “easy way of calling Matlab from Python” using ZeroMQ and IPC
 
 ## Domain Modeling and Analysis
 
