@@ -42,6 +42,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [TAPAS](https://github.com/translationalneuromodeling/tapas) – Translational Algorithms for Psychiatry-Advancing Science – A neuroscience library
 * [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
+* [BM3D-Net](https://github.com/legendongary/BM3D-Net) – I'm not sure what this is, but it's something, and it's MIT licensed
 
 ## My own FLOSS Matlab Projects
 
