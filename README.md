@@ -29,7 +29,11 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Process Manager](https://www.mathworks.com/matlabcentral/fileexchange/48164-process-manager) – Launch and manage external processes from Matlab
 * [MOxUnit](https://github.com/MOxUnit/MOxUnit) – a unit test framework
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
+
+## Language connectivity
+
 * [Transplant](https://github.com/bastibe/transplant) – An “easy way of calling Matlab from Python” using ZeroMQ and IPC
+* [Scilab Matlab/Octave Compatibility Toolbox](https://atoms.scilab.org/toolboxes/moc_toolbox/0.3.2) – Port Matlab/Octave toolboxes to Scilab
 
 ## Domain Modeling and Analysis
 
@@ -41,6 +45,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [GIBBON](https://www.gibboncode.org/) – The Geometry and Image-Based Bioengineering add-ON
 * [TopoToolbox](https://topotoolbox.wordpress.com/topotoolbox/) – Analysis of digital elevation models
 * [TAPAS](https://github.com/translationalneuromodeling/tapas) – Translational Algorithms for Psychiatry-Advancing Science – A neuroscience library
+* [DynaSim](https://github.com/DynaSim/DynaSim) ![Octave Compatible][octave] – Model and simulate dynamical systems
 * [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 * [BM3D-Net](https://github.com/legendongary/BM3D-Net) – I'm not sure what this is, but it's something, and it's MIT licensed
