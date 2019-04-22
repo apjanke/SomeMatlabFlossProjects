@@ -27,8 +27,9 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [tfigure](https://github.com/curtisma/MATLAB_tfigure) – A tabbed figure control
 * [Matlab Schemer](https://github.com/scottclowe/matlab-schemer) – Color themes for the Matlab desktop
 * [Process Manager](https://www.mathworks.com/matlabcentral/fileexchange/48164-process-manager) – Launch and manage external processes from Matlab
-* [MOxUnit](https://github.com/MOxUnit/MOxUnit) – a unit test framework
+* [MOxUnit](https://github.com/MOxUnit/MOxUnit) – A unit test framework
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
+* [fig2svg](https://github.com/kupiqu/fig2svg) ![Octave Compatible][octave] – Export Matlab figures to SVG
 
 ## Language connectivity
 
