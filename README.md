@@ -30,7 +30,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [MOxUnit](https://github.com/MOxUnit/MOxUnit) – A unit test framework
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
 * [fig2svg](https://github.com/kupiqu/fig2svg) ![Octave Compatible][octave] – Export Matlab figures to SVG
-* [Chebfun](http://www.chebfun.org/) – Computing with functions
+* [Chebfun](http://www.chebfun.org/) ![Not Octave Compatible][no-octave] – Computing with functions
 
 ## Language connectivity
 
