@@ -31,6 +31,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) – Deep Learning toolbox (deprecated)
 * [fig2svg](https://github.com/kupiqu/fig2svg) ![Octave Compatible][octave] – Export Matlab figures to SVG
 * [Chebfun](http://www.chebfun.org/) ![Not Octave Compatible][no-octave] – Computing with functions
+* [Glmnet](https://web.stanford.edu/~hastie/glmnet_matlab/index.html) – Lasso and elastic-net regularized generalized linear models
 
 ## Language connectivity
 
