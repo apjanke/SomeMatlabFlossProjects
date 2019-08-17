@@ -52,6 +52,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Historical Stock Data Download](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method) by Captain Awesome – Downloads Yahoo Finance data
 * [Lenia](https://github.com/Chakazul/Lenia) – Mathematical lifeforms: cool 2D cellular automata visualization
 * [BM3D-Net](https://github.com/legendongary/BM3D-Net) – I'm not sure what this is, but it's something, and it's MIT licensed
+* [DIPimage](http://www.diplib.org/) – Scientific image processing and analysis
 
 ## My own FLOSS Matlab Projects
 
