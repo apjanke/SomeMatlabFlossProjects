@@ -74,6 +74,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Matlab Answers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
 * [#matlab channel on freenode IRC](https://matlab-freenode.fandom.com/wiki/Matlab_on_Freenode_Wiki)
 * [Numeric Café Slack](https://numeric-cafe.github.io/) – A public Slack for discussing Matlab and Octave programming
+* [Matlab Subreddit](https://www.reddit.com/r/matlab/) – Reddit’s Matlab discussion area
 
 ## Other Lists of Matlab Projects
 
