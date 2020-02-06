@@ -54,6 +54,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [BM3D-Net](https://github.com/legendongary/BM3D-Net) – I'm not sure what this is, but it's something, and it's MIT licensed
 * [DIPimage](http://www.diplib.org/) – Scientific image processing and analysis
 * [pmtk](https://github.com/probml/pmtk3) ![Octave Compatible][octave] – Probabilistic Modeling Toolkit
+* [gkaModelEye](https://github.com/gkaguirrelab/gkaModelEye) – An anatomically accurate, ray-traced model eye in Matlab.
 
 ### My own FLOSS Matlab Projects
 
