@@ -32,6 +32,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Chebfun](http://www.chebfun.org/) ![Not Octave Compatible][no-octave] – Computing with functions
 * [Glmnet](https://web.stanford.edu/~hastie/glmnet_matlab/index.html) – Lasso and elastic-net regularized generalized linear models
 * [mlAppKit](https://github.com/erkandem/mlAppKit) – Enhance your work with Matlab’s App Designer
+* [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox) – Declarative dependency management for Matlab
 
 ### Language connectivity
 
