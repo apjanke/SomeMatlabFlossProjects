@@ -1,5 +1,4 @@
-SomeMatlabFlossProjects
-=======================
+# SomeMatlabFlossProjects
 
 This is a list of FLOSS ("Free/Libre/Open Source Software") projects for Matlab that I’ve found.
 I put this list together because there doesn’t seem to be a good central resource for finding FLOSS Matlab software.
@@ -10,9 +9,9 @@ I’m just noting their existence.
 Submissions to this list are welcome.
 Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) with them.
 
-# FLOSS Matlab Projects
+## FLOSS Matlab Projects
 
-## Programming and Utilities
+### Programming and Utilities
 
 * [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) – Richer controls for arranging Matlab GUI widgets
 * [GRAMM](https://github.com/piermorel/gramm) – Advanced data visualization based on Grammar of Graphics
@@ -34,12 +33,12 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Glmnet](https://web.stanford.edu/~hastie/glmnet_matlab/index.html) – Lasso and elastic-net regularized generalized linear models
 * [mlAppKit](https://github.com/erkandem/mlAppKit) – Enhance your work with Matlab’s App Designer
 
-## Language connectivity
+### Language connectivity
 
 * [Transplant](https://github.com/bastibe/transplant) – An “easy way of calling Matlab from Python” using ZeroMQ and IPC
 * [Scilab Matlab/Octave Compatibility Toolbox](https://atoms.scilab.org/toolboxes/moc_toolbox/0.3.2) – Port Matlab/Octave toolboxes to Scilab
 
-## Domain Modeling and Analysis
+### Domain Modeling and Analysis
 
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
 * [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
@@ -56,7 +55,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [DIPimage](http://www.diplib.org/) – Scientific image processing and analysis
 * [pmtk](https://github.com/probml/pmtk3) ![Octave Compatible][octave] – Probabilistic Modeling Toolkit
 
-## My own FLOSS Matlab Projects
+### My own FLOSS Matlab Projects
 
 * [Janklab](https://github.com/apjanke/janklab) ![Not Octave Compatible][no-octave] – My general-purpose tools & tricks Matlab library
 * [SLF4M](https://github.com/apjanke/SLF4M) ![Not Octave Compatible][no-octave] – A simple logging framework for Matlab, built on top of SLF4J and Log4J
@@ -67,9 +66,9 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 ![Octave Compatible][octave] = Octave-compatible
 ![Not Octave Compatible][no-octave] = Not Octave-compatible
 
-# Resources
+## Resources
 
-## Matlab Help places
+### Matlab Help places
 
 * ["matlab" tag on Stack Overflow](https://stackoverflow.com/questions/tagged/matlab)
 * [Matlab Answers on Matlab Central](https://www.mathworks.com/matlabcentral/answers/index/) – Official MathWorks forum, like a clone of Stack Overflow
@@ -77,12 +76,12 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Numeric Café Slack](https://numeric-cafe.github.io/) – A public Slack for discussing Matlab and Octave programming
 * [Matlab Subreddit](https://www.reddit.com/r/matlab/) – Reddit’s Matlab discussion area
 
-## Other Lists of Matlab Projects
+### Other Lists of Matlab Projects
 
 * [mikecroucher/awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
 * [uhub/awesome-matlab](https://github.com/uhub/awesome-matlab)
 
-## Finding FLOSS Matlab Projects
+### Finding FLOSS Matlab Projects
 
 [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) is the classic location for sharing Matlab code.
 Everything on there is required to be FLOSS licensed.
@@ -101,7 +100,7 @@ GitHub user `kaxap` maintains a [list of popular Matlab repos on GitHub](https:/
 
 Yair Altman posts a bunch of stuff on [Undocumented Matlab](https://undocumentedmatlab.com/) and [his File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/?term=authorid%3A27420).
 
-# Author
+## Author
 
 This list was put together by [Andrew Janke](https://apjanke.net).
 
