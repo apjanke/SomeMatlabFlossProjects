@@ -56,6 +56,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [DIPimage](http://www.diplib.org/) – Scientific image processing and analysis
 * [pmtk](https://github.com/probml/pmtk3) ![Octave Compatible][octave] – Probabilistic Modeling Toolkit
 * [gkaModelEye](https://github.com/gkaguirrelab/gkaModelEye) – An anatomically accurate, ray-traced model eye in Matlab.
+* [Brain2Mesh](http://mcx.space/brain2mesh) – A library for high-quality brain mesh generation
 
 ### My own FLOSS Matlab Projects
 
