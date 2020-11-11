@@ -16,6 +16,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) – Richer controls for arranging Matlab GUI widgets
 * [GRAMM](https://github.com/piermorel/gramm) – Advanced data visualization based on Grammar of Graphics
 * [PRMLT](https://github.com/PRML/PRMLT) – Machine learning algorithms
+* [MISS_HIT](https://florianschanda.github.io/miss_hit/) ![Octave Compatible][octave] – Style checker and code analyzer
 * [MathWorks Reference Architectures](https://github.com/mathworks-ref-arch) – MathWorks’ own open source tools for deploying Matlab systems on cloud providers like AWS and Azure
 * [matImage](https://github.com/mattools/matImage) – Image processing library
   * The [`mattools` GitHub group](https://github.com/mattools) has several other libraries
