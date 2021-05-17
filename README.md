@@ -61,6 +61,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [pmtk](https://github.com/probml/pmtk3) ![Octave Compatible][octave] – Probabilistic Modeling Toolkit
 * [gkaModelEye](https://github.com/gkaguirrelab/gkaModelEye) – An anatomically accurate, ray-traced model eye in Matlab.
 * [Brain2Mesh](http://mcx.space/brain2mesh) – A library for high-quality brain mesh generation
+* [Matlab-GAN](https://github.com/zcemycl/Matlab-GAN) – Various Generative Adversarial Networks in Matlab
 
 ### My own FLOSS Matlab Projects
 
