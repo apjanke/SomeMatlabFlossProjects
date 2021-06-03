@@ -47,7 +47,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 * [FieldTrip](http://www.fieldtriptoolbox.org/) – A toolbox for MEG and EEG (brain imaging) analysis
 * [TDT – The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) – Multivariate analysis of functional and structural MRI data
-* [MATPOWER](http://www.pserc.cornell.edu/matpower/) ![Octave Compatible][octave] – Power grid simulation and optimization
+* [MATPOWER](https://matpower.org/) ![Octave Compatible][octave] – Power grid simulation and optimization
 * [T-MATS](https://github.com/nasa/T-MATS) – A NASA-developed library for modeling thermodynamic systems
 * [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-matlab) – Robotics-specific functionality
 * [GIBBON](https://www.gibboncode.org/) – The Geometry and Image-Based Bioengineering add-ON
