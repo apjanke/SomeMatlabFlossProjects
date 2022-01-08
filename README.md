@@ -37,6 +37,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [Logging for MATLAB](https://github.com/ismet55555/Logging-For-MATLAB) – A flexible message logger for Matlab programs
 * [safeMap](https://github.com/ferrarodav/safeMap) – Memory and interruption safe map
 * [MBeautifier](https://github.com/davidvarga/MBeautifier) – Code formatter for Matlab
+* [mpm](https://github.com/mobeets/mpm) – A simple package manager for Matlab
 
 ### Language connectivity
 
