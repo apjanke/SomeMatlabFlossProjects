@@ -69,7 +69,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 
 * [Janklab](https://janklab.net) ![Not Octave Compatible][no-octave] – A suite of little programming libraries for Matlab
 * [Janklab-core](https://janklab-core.janklab.net/) ![Not Octave Compatible][no-octave] – General-purpose library of tools, tricks, and coding aids
-* [MatlabProjectTemplate](https://matlabprojecttemplate.janklab.net/) ![Not Octave Compatible][no-octave] – Templates for creating nice Matlab project repo layouts
+* [MatlabProjectTemplate](https://matlabprojecttemplate.janklab.net/) ![Not Octave Compatible][no-octave] – Templates for creating nice Matlab project repo layouts
 * [SLF4M](https://github.com/apjanke/SLF4M) ![Not Octave Compatible][no-octave] – A simple logging framework for Matlab, built on top of SLF4J and Log4J
 * [MCodeNavigator](https://github.com/apjanke/MCodeNavigator) ![Not Octave Compatible][no-octave] – A GUI for browsing Matlab source code trees
 * [matlab-bench](https://github.com/apjanke/matlab-bench) – Benchmarks performance of basic Matlab language operations
