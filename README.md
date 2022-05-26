@@ -38,6 +38,7 @@ Make a [Pull Request](https://github.com/apjanke/SomeMatlabFlossProjects/pulls) 
 * [safeMap](https://github.com/ferrarodav/safeMap) – Memory and interruption safe map
 * [MBeautifier](https://github.com/davidvarga/MBeautifier) – Code formatter for Matlab
 * [mpm](https://github.com/mobeets/mpm) – A simple package manager for Matlab
+* [m2uml](https://www.mathworks.com/matlabcentral/fileexchange/59722-m2uml) – Generate PlantUML UML diagrams from M-code
 
 ### Language connectivity
 
